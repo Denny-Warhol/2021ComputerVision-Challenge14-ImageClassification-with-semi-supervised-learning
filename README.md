@@ -2,7 +2,7 @@
 
 ##  동영상
 
-- 베이스라인을 찍기 위한 과정을 설명한 영상: [Youtube](https://youtu.be/FUWdR2Ur8qc)
+- 베이스라인을 찍기 위한 과정을 설명한 영상: [Youtube](https://youtu.be/QjPIb_V4XcQ)
 
 ##  환경구축
 
