@@ -1,5 +1,9 @@
 # 2021ComputerVision-Challenge14-Image Classification with Semi-Supervised Learning
 
+##  동영상
+
+- 베이스라인을 찍기 위한 과정을 설명한 영상: [Youtube](https://youtu.be/FUWdR2Ur8qc)
+
 ##  환경구축
 
 - `conda`를 사용해 베이라인 코드 실행에 필요한 라이브러리들을 설치함
